@@ -1,0 +1,28 @@
+body {
+    display: block;
+    background-color: honeydew;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: darkmagenta;
+}
+
+table {
+    border: medium solid darkmagenta;
+}
+
+th {
+    background-color: hotpink;
+}
+
+.tag,
+.example {
+
+    font-family: monospace;
+    background-color: greenyellow;
+}
